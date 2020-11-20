@@ -11,7 +11,9 @@
   },
   "dependencies": {
     "firebase": "^8.1.1",
+    "moment": "^2.29.1",
     "vue": "^2.5.2",
+    "vue-chat-scroll": "^1.4.0",
     "vue-router": "^3.0.1"
   },
   "devDependencies": {
